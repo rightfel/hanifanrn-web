@@ -1,6 +1,6 @@
 {
     "rewrites": [
       {"source": "/resume", "destination": "https://hanifanrn-web.vercel.app/resume"},
-      {"source": "/projects", "destination": "https://hanifanrn-web.vercel.app/projects"},
+      {"source": "/projects", "destination": "https://hanifanrn-web.vercel.app/projects"}
     ]
   }
