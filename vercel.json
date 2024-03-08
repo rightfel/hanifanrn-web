@@ -1,5 +1,5 @@
 {
     "rewrites": [
-        {"source": "/(.*)", "destination": "https://hanifanrn-web.vercel.app/"}
+        {"source": "/((?!api/.*).*)", "destination": "/"}
     ]
   }
